@@ -50,7 +50,7 @@ var data = [{
     country: "us",
     shape: "triangle",
     durationMinutes: "a few mintues",
-    comments: "Triangle shaped craft with three red lights at points hovering over Grants Pass&#44 Oregon."
+    comments: "Triangle shaped craft with three red lights at points hovering over Grants Pass, Oregon."
   },
   {
     datetime: "1/1/2010",
