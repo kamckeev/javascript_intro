@@ -1,6 +1,6 @@
     
-// from data.js
-var tableData = data;
+// from ufo_data.js
+var tableData = ufo_data;
 
 // select tbody using ds
 tbody = d3.select("tbody")
